@@ -7,10 +7,7 @@
 //
 
 import UIKit
-// 屏幕宽度
-let kScreenH = UIScreen.main.bounds.height
-// 屏幕高度
-let kScreenW = UIScreen.main.bounds.width
+
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
